@@ -3,5 +3,5 @@
 # Docks
 
 <div align="center"><h2>
-A custom terminal in progress written in C++<br/><br/>Made by Raiyaxi Ziaoi
+A custom terminal in progress written in C++<br/><br/>>Made by Abu Hurayrah
 </h2></div>
